@@ -3,19 +3,19 @@ var products = [
         "p_id" : 1,
         "p_name" : "Apple Iphone X",
         "p_price" : 80000,
-        "p_image" : "https://developer.apple.com/iphone/images/iphone-hero.png"
+        "p_image" : "https://multimedia.bbycastatic.ca/multimedia/products/500x500/135/13527/13527274.jpg"
     },
     {
         "p_id" : 2,
         "p_name" : "Apple Iphone X",
         "p_price" : 88000,
-        "p_image" : "https://developer.apple.com/iphone/images/iphone-hero.png"
+        "p_image" : "https://multimedia.bbycastatic.ca/multimedia/products/500x500/135/13527/13527274.jpg"
     },
     {
         "p_id" : 3,
         "p_name" : "Apple Iphone X",
         "p_price" : 82000,
-        "p_image" : "https://developer.apple.com/iphone/images/iphone-hero.png"
+        "p_image" : "https://multimedia.bbycastatic.ca/multimedia/products/500x500/135/13527/13527274.jpg"
     },
     {
         "p_id" : 4,
